@@ -22,7 +22,8 @@
   <a href="#eda">EDA</a> •
   <a href="#models-building">Models building</a> •
   <a href="#verdict-about-standart-models">Verdict about standart models</a> •
-  <a href="#auto-ml">Auto ML</a>
+  <a href="#auto-ml">Auto ML</a> •
+  <a href="#feedback">Feedback</a>
 </p>
 
 ## Main goals of this project:
@@ -163,3 +164,8 @@ best_pipeline.score(X_test, y_test, objectives=["auc","f1","Precision","Recall"]
 
 ### Result
 **We got an 91.2 % AUC Score which is the highest of all**
+
+## Feedback
+:person_in_tuxedo: Feel free to send me feedback on [Telegram](https://t.me/boramorka). Feature requests are always welcome. 
+
+:abacus: [Check my other projects.](https://github.com/boramorka)
