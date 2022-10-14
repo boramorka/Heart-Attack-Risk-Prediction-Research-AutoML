@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-:heart Heart Attack Risk Prediction Research <br> + <br> :wrench: Auto ML <br>
+:heart: Heart Attack Risk Prediction Research <br> + <br> :wrench: Auto ML <br>
 
 </h1>
 
