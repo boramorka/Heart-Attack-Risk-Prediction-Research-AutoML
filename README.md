@@ -1,9 +1,8 @@
 <h1 align="center">
   <br>
-Heart Attack Risk Prediction Research <br> + <br> Auto ML <br>
+:heart Heart Attack Risk Prediction Research <br> + <br> :wrench: Auto ML <br>
 
 </h1>
-
 
 <h3 align="center">
   Built with
@@ -27,35 +26,35 @@ Heart Attack Risk Prediction Research <br> + <br> Auto ML <br>
 </p>
 
 ## Main goals of this project:
-* Build and evaluate the best algorithm for heart attack risk prediction
-* Apply Auto ML tool from Eval ML to automate model building
-* Compare results of custom models and Auto ML
+* :ballot_box_with_check: Build and evaluate the best algorithm for heart attack risk prediction
+* :ballot_box_with_check: Apply Auto ML tool from Eval ML to automate model building
+* :ballot_box_with_check: Compare results of custom models and Auto ML
 
 ## Data
 Link: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
 ### About this dataset
-- Age : Age of the patient
+- :child: :older_man: Age : Age of the patient :girl: :older_woman:
   
-- Sex : Sex of the patient
-- exang: exercise induced angina (1 = yes; 0 = no)
-- ca: number of major vessels (0-3)
-- cp : Chest Pain type chest pain type
+- :bearded_person: :woman: Sex : Sex of the patient
+- :chart_with_upwards_trend: exang: exercise induced angina (1 = yes; 0 = no)
+- :chart_with_upwards_trend: ca: number of major vessels (0-3)
+- :chart_with_upwards_trend: cp : Chest Pain type chest pain type
   - Value 1: typical angina
   - Value 2: atypical angina
   - Value 3: non-anginal pain
   - Value 4: asymptomatic
 <br><br>
-- trtbps : resting blood pressure (in mm Hg)
-- chol : cholestoral in mg/dl fetched via BMI sensor
-- fbs : (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
-- rest_ecg : resting electrocardiographic results
+- :chart_with_upwards_trend: trtbps : resting blood pressure (in mm Hg)
+- :chart_with_upwards_trend: chol : cholestoral in mg/dl fetched via BMI sensor
+- :chart_with_upwards_trend: fbs : (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
+- :chart_with_upwards_trend: rest_ecg : resting electrocardiographic results
   - Value 0: normal
   - Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
   - Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria
 <br><br>
-- thalach : maximum heart rate achieved
-- target : 0= less chance of heart attack 1= more chance of heart attack
+- :chart_with_upwards_trend: thalach : maximum heart rate achieved
+- :chart_with_upwards_trend: target : 0= less chance of heart attack 1= more chance of heart attack
 
 ![pic](https://github.com/boramorka/usercontent/blob/main/heart-risk/Screenshot_1.png?raw=true)
 
@@ -104,11 +103,11 @@ Full Size Pic: https://github.com/boramorka/usercontent/blob/main/heart-risk/7.p
 
 ## Auto ML
 
-EvalML is an open-source AutoML library written in python that automates a large part of the machine learning process and we can easily evaluate which machine learning pipeline works better for the given set of data.
+:wrench: EvalML is an open-source AutoML library written in python that automates a large part of the machine learning process and we can easily evaluate which machine learning pipeline works better for the given set of data.
 
-- Eval ML Library will do all the pre processing techniques for us and split the data for us
-- There are different problem type parameters in Eval ML, we have a Binary type problem here, that's why we are using Binary as a input
-- It has awesome API
+- :hammer: Eval ML Library will do all the pre processing techniques for us and split the data for us
+- :pick: There are different problem type parameters in Eval ML, we have a Binary type problem here, that's why we are using Binary as a input
+- :hammer_and_wrench: It has awesome API
 
 ```python
 #train/test split
