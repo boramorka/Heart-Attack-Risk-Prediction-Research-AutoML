@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-:heart: Heart Attack Risk Prediction Research <br> + <br> :wrench: Auto ML <br>
+:heart: Heart Attack Risk Prediction Research :heart: <br> + <br> :wrench: Auto ML :wrench: <br>
 
 </h1>
 
@@ -72,6 +72,7 @@ Link: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-p
 ### Pairplot by all features
 - Orange: 1 (more chance heart attack)
 - Blue: 0 (less chance heart attack)
+  
 Full Size Pic: https://github.com/boramorka/usercontent/blob/main/heart-risk/7.png?raw=true
 
 ![pic](https://github.com/boramorka/usercontent/blob/main/heart-risk/7.png?raw=true)
