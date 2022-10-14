@@ -18,10 +18,12 @@ Heart Attack Risk Prediction Research <br> + <br> Auto ML <br>
 </h3>
 
 <p align="center">
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#how-to-run-locally">How To Run Locally</a> •
-  <a href="#built-process">Built process</a> •
-  <a href="#feedback">Feedback</a>
+  <a href="#main-goals-of-this-project">Main goals of this project</a> •
+  <a href="#data">Data</a> •
+  <a href="#eda">EDA</a> •
+  <a href="#models-building">Models building</a> •
+  <a href="#verdict-about-standart-models">Verdict about standart models</a> •
+  <a href="#auto-ml">Auto ML</a>
 </p>
 
 ## Main goals of this project:
@@ -78,7 +80,9 @@ Full Size Pic: https://github.com/boramorka/usercontent/blob/main/heart-risk/7.p
 ![pic](https://github.com/boramorka/usercontent/blob/main/heart-risk/8.png?raw=true)
 ### Cholesterol distribution
 ![pic](https://github.com/boramorka/usercontent/blob/main/heart-risk/9.png?raw=true)
-## Models result
+
+
+## Models building
 
 ### Logistic Regression
 ![pic](https://github.com/boramorka/usercontent/blob/main/heart-risk/10.png?raw=true)
